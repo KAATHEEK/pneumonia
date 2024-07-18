@@ -1,0 +1,2 @@
+# pneumonia
+deploy on azure
